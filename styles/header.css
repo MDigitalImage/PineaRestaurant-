@@ -613,7 +613,7 @@ button:hover{
         flex-direction: row;
         align-items: start;
         justify-content: space-between;
-        background-image: url("../images/background.jpeg");
+        background-image: url("../images/background.jpg");
         height: 60px;
         width: 100%;
         vertical-align: middle;
