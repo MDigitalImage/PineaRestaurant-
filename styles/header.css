@@ -721,7 +721,7 @@ button:hover{
     .slider{
         width: 330px;
         max-width: 100vw;
-        height: 480px;
+        height: 420px;
     }
     .slider .list{
         position: absolute;
